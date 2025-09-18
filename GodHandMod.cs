@@ -1,5 +1,5 @@
 bin/
-obj.
+obj/
 .vs/
 using BepInEx;
 using UnityEngine;
